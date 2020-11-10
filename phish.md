@@ -4,7 +4,7 @@ Today I received the following mail:
 
 https://hjvfyktdfky56kdrt5jt5ej5.web.app/?emailtoken=t.xxxx@gmail.com&domain=google.com
 
-<div style="text-align:center"><img src="phish_sc.PNG" /></div>
+<div style="text-align:center"><img src="phish_sc.PNG" width="640" height="472"/></div>
 
 This is a phishing website which is controlled by the host https://bremerrapidest.xyz
 
