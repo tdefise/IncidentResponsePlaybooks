@@ -2,7 +2,7 @@
 
 Today I received the following mail:
 
-https://hjvfyktdfky56kdrt5jt5ej5.web.app/?emailtoken=t.defise@gmail.com&domain=google.com
+https://hjvfyktdfky56kdrt5jt5ej5.web.app/?emailtoken=t.xxxx@gmail.com&domain=google.com
 
 This is a phishing website which is controlled by the host https://bremerrapidest.xyz
 
@@ -147,7 +147,7 @@ document.write(unescape('%3C%21%44%4F%43%54........%74%6D%6C%3E'));
 2) Analysis of the decoded page (Social Engineering)
 
 As document "*// Notice: this will defeat purpose of SEO. Not useful for SEO-friendly sites.*"
-THe website get the parameter "domain", then do a lookup for it on google in order to:
+The website get the parameter "https://hjvfyktdfky56kdrt5jt5ej5[.]web[.]app/?emailtoken=t.xxxx@gmail.com&**domain=google.com**", then do a lookup for it on google in order to:
   - Include the icon within the *<link id="favicon" rel="icon" href="" type="image/png" sizes="16x16">*
   (See variable **imageBoxx**)
   - Include the icon within form (Visually)
@@ -191,6 +191,8 @@ It also add the domain to the page within the form (visually) by doing the follo
     document.getElementById("demo").innerHTML = demo;
 </script>
 ```
+
+So for instance, if I navigate to "https://hjvfyktdfky56kdrt5jt5ej5[.]web[.]app/?emailtoken=t.defise@gmail.com&**domain=nfl.com**", it will show me the logo of the National Football League.
 
 3) Analysis of the form
 
