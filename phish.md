@@ -194,6 +194,9 @@ It also add the domain to the page within the form (visually) by doing the follo
 
 So for instance, if I navigate to "https://hjvfyktdfky56kdrt5jt5ej5[.]web[.]app/?emailtoken=t.defise@gmail.com&domain=nfl.com", with **domain=nfl.com**, it will show me the logo of the National Football League.
 
+https://www.google.com/s2/favicons?domain=nfl.com 
+![](favicons_nfl.PNG)
+
 3) Analysis of the form
 
 As you can seen the POST is performed towards another domain "https://bremerrapidest[.]xyz"
