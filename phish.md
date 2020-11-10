@@ -202,4 +202,14 @@ As you can seen the POST is performed towards another domain "https://bremerrapi
 
 After enumerating the folder files & folder available on this websites, I found the following page https://bremerrapidest[.]xyz/admin/, which should, according to me also be classified as malicious
 
-![](website.png)
+![](website.PNG)
+
+At the moment, this website is only seen as malicious by one engine on VirusTotal
+
+![](vt_1.PNG)
+
+And on the otherside, the phish is not detected by any engine on VirusTotal
+
+![](vt_2.PNG)
+
+
